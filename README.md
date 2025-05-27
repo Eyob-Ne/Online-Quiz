@@ -10,7 +10,7 @@ An Android-based **Online Quiz App** developed using **Java** and **SQLite**, de
 - 🔄 Supports retrying quizzes
 - 📊 Displays score and performance summary
 - 🕓 Countdown timer per quiz
-- 📦 Uses **SQLite** for offline data storage
+- 📦 Uses SQLite for data storage
 - 📲 Clean and responsive UI
 
 ---
