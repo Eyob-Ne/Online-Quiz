@@ -30,8 +30,6 @@ An Android-based **Online Quiz App** developed using **Java** and **SQLite**, de
 
 ![Screenshot 2025-05-25 223101](https://github.com/user-attachments/assets/fb4bc16a-2dd8-4a22-b596-acdd63085396)
 
-![Screenshot 2025-05-25 223117](https://github.com/user-attachments/assets/d7fda1bb-5c6a-4344-937c-47cb8df88aba)
-
 ![Screenshot 2025-05-25 223205](https://github.com/user-attachments/assets/44c8ba5a-fa9b-4c6e-809c-d32213a01afa)
 
 ![Screenshot 2025-05-25 223218](https://github.com/user-attachments/assets/1b5260c7-e283-44bc-943e-68332925fd32)
@@ -44,7 +42,6 @@ An Android-based **Online Quiz App** developed using **Java** and **SQLite**, de
 
 ![Screenshot 2025-05-26 143006](https://github.com/user-attachments/assets/af297f67-bcc3-4329-800a-289575273dae)
 
-<img width="204" alt="upd" src="https://github.com/user-attachments/assets/5f9252e0-6961-4ef6-b817-6fe1c513c69b" />
 
 
 Installation
@@ -52,6 +49,7 @@ Installation
 Clone the repository:
 
 git clone https://github.com/Eyob-Ne/Online-Quiz.git
+
 cd Online-Quiz
 
 
